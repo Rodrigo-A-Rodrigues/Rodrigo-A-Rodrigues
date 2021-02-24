@@ -1,16 +1,18 @@
-### Hi there 👋
+# Rodrigo André Rodrigues
 
-<!--
-**Rodrigo-A-Rodrigues/Rodrigo-A-Rodrigues** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Olá pessoal 👋
+Sou um FullStack Developer em desenvolvimento. 
+Especialização em:
+:arrow_forward: ReactJs + Typescript
+:arrow_forward: NodeJs
+:arrow_forward: HTML & CSS + Javascript
+:arrow_forward: React Native (apredendo)
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+ :rocket: Estou trabalhando na **EasyWeb Design**
+ <br/> :purple_heart: &nbsp; Buscando colaborar com projetos em Front-end usando React+Typescript
+ <br/> :blush: &nbsp; Posso te ajudar com CSS Grid Layout, Flexbox & React
+ <br/> :computer: &nbsp; Minha stack: Javascript, ReactJS, Node.js, React Native & Typescript
+ <br/> 💬  &nbsp; Sobre mim: Curto tecnologias, games Valorant, GTA V e seriados no Netflix
+ <br/> :email: &nbsp; Entre em contato comigo: [![Linkedin Badge](https://img.shields.io/badge/-RodrigoRodrigues-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rodrigo-rodrigues-93239a175/)](https://www.linkedin.com/in/rodrigo-rodrigues-93239a175/) 
+| 
+[![Gmail Badge](https://img.shields.io/badge/-rodrigorodrigues1807@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:rodrigorodrigues1807@gmail.com)](mailto:rodrigorodrigues1807@gmail.com)
