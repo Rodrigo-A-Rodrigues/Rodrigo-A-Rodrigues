@@ -1,7 +1,7 @@
 # Rodrigo André Rodrigues
 
 ## Olá pessoal 👋
-Sou um FullStack Developer em desenvolvimento. 
+Sou um FullStack Developer 
 
  :rocket: Estou trabalhando na **EasyWeb Design**
  <br/> :purple_heart: &nbsp; Buscando colaborar com projetos em Front-end usando React+Typescript
