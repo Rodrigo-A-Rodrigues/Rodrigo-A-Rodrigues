@@ -1,6 +1,6 @@
 # Rodrigo André Rodrigues
 
-### About me🧑:
+### About me:
 I am Computer Engineering student and a Certified Java Developer by CCA(Cambridge Certification Authority).<br/>
 I have done Internship as a FullStack Developer as well as Website Tester.<br/>
 I am interested in learning DS,ML,AI and would 💖 to grow my knowledge in these Technologies.
@@ -73,11 +73,11 @@ Languages and Tools🛠:
 ### Github Activity ✔:
 
 <a href="https://github.com/Rodrigo-A-Rodrigues">
-  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?Rodrigo-A-Rodrigues=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+  <img align="center" src="https://github-readme-stats.vercel.app/api?Rodrigo-A-Rodrigues=anuraghazra" />
 </a>
 
 <a href="https://github.com/Rodrigo-A-Rodrigues">
- <img align="center" src="https://github-readme-stats.vercel.app/api?username=Rodrigo-A-Rodrigues&show_icons=true&theme=tokyonight&line_height=27" alt="Dave's github stats"/>
+ <img align="center" src="https://github-readme-stats.vercel.app/api?username=Rodrigo-A-Rodrigues&show_icons=true&theme=tokyonight&line_height=27" alt="Rodrigo`s github stats"/>
 </a>
 
 <br/>
