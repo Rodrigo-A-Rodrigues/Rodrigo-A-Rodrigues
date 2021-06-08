@@ -72,8 +72,8 @@ Languages and Tools🛠:
 
 ### Github Activity ✔:
 
-<a href="https://github.com/Rodrigo-A-Rodrigues">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?Rodrigo-A-Rodrigues=anuraghazra" />
+<a href="https://github.com/Davekibh">
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rodrigo-A-Rodrigues&theme=tokyonight" />
 </a>
 
 <a href="https://github.com/Rodrigo-A-Rodrigues">
