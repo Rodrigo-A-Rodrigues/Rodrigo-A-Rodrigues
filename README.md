@@ -1,26 +1,29 @@
 # Rodrigo André Rodrigues
 
-### About me:
-I am Computer Engineering student and a Certified Java Developer by CCA(Cambridge Certification Authority).<br/>
-I have done Internship as a FullStack Developer as well as Website Tester.<br/>
+### Olá 👊
+Estou cursando Sistema de Informação pela instituição Cefet-RJ e estarei terminando em 2024.<br/>
+Sou formado em developer Full Stack pelas empresas B7Web e obtive especialização em Frontend utilizando o framer ReactJS pela Rocketseat.<br/>
 I am interested in learning DS,ML,AI and would 💖 to grow my knowledge in these Technologies.
 
-- 🔭 I’m currently working on Frontend Web Development & Android Development.
-- 🌱 I’m currently learning Backend Development.
-- 👯 I’m looking to collaborate with Fullstack Web and Android Developers.
-- 🤔 I’m looking for help with Open source Contribution.
-- 💬 Ask me about Frontend and Android Development.
-- 😄 Pronouns: He/Him
-- ⚡ Fun fact: I 💖 to code 24x7.
-- 🎢 Profile Visitors Count:  
+- 🔭  No momento, estou trabalhando no Frontend Web Development & Backend Web Development.
+- 🌱 Estou tendo especialização em Desenvolvimento Frontend e pretendo aprimorar meus conheicmentos em backend também.
+- 👯 Estou procurando colaborar com desenvolvedores Front e/ou Back para obter maiores conhecimentos.
+- ⚡ Fato interessante: I 💖 to code 24x7.
 
 <br/>
-
+---
+## Connect with me🤝: 
+ 
+[<img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />](https://github.com/Rodrigo-A-Rodrigues)  
+[<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/rodrigo-rodrigues-93239a175/) 
+[<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />](https://www.instagram.com/rodrigo.easyweb/) 
+[<img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />](https://www.facebook.com/easyweb.rodrigo)
+<br/>
 ---
 
-<details>
+
 <summary>
-Languages and Tools🛠:
+## Languages and Tools🛠:
 </summary>
   <br/>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
@@ -39,40 +42,12 @@ Languages and Tools🛠:
 <code><img height="20" src="https://upload.wikimedia.org/wikipedia/en/d/d2/Sublime_Text_3_logo.png"></code>
 <code><img height="20" src="https://banner2.cleanpng.com/20181122/krs/kisspng-java-programming-language-selenium-computer-softwa-july-2-16-halab-4-dev-5bf78387a7bb41.028192901542947719687.jpg"></code>
 <code><img height="20" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/1024px-Visual_Studio_Code_1.35_icon.svg.png"></code>
-</details>
-
----
-
-<details>
-<summary> Connect with me🤝: </summary>  
-
-<br/>
-
-<a href="https://github.com/Rodrigo-A-Rodrigues">
-  <img align="left" alt="Rodrigo´s Github" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Github-desktop-logo-symbol.svg/1024px-Github-desktop-logo-symbol.svg.png" />
-</a>
-
-<a href="https://www.instagram.com/rodrigo.easyweb/">
-  <img align="left" alt="EasyWeb Instagram" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Instagram_icon.png/600px-Instagram_icon.png" />
-</a>
-
-<a href="https://www.facebook.com/easyweb.rodrigo">
-  <img align="left" alt="Rodrigo.easyweb Facebook" width="22px" src="https://facebookbrand.com/wp-content/uploads/2019/04/f_logo_RGB-Hex-Blue_512.png?w=512&h=512" />
-</a>
-
-<a href="https://www.linkedin.com/in/rodrigo-rodrigues-93239a175/">
-  <img align="left" alt="Dave's Linkdein" width="22px" src="https://cdn3.iconfinder.com/data/icons/inficons/512/linkedin.png" />
-</a>
-
-<br/>
-
-</details>
 
 ---
 
 ### Github Activity ✔:
 
-<a href="https://github.com/Davekibh">
+<a href="https://github.com/Rodrigo-A-Rodrigues">
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rodrigo-A-Rodrigues&theme=tokyonight" />
 </a>
 
