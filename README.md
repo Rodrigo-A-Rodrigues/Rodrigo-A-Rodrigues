@@ -12,7 +12,8 @@ I am interested in learning DS,ML,AI and would 💖 to grow my knowledge in thes
 
 <br/>
 ---
-<br/>
+
+
 ## Connect with me🤝: 
  
 [<img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />](https://github.com/Rodrigo-A-Rodrigues)  
@@ -20,13 +21,13 @@ I am interested in learning DS,ML,AI and would 💖 to grow my knowledge in thes
 [<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />](https://www.instagram.com/rodrigo.easyweb/) 
 [<img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />](https://www.facebook.com/easyweb.rodrigo)
 <br/>
----
+
 
 
 
 ## Languages and Tools🛠:
 <br/>
-<code><img height="20" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"></code>
+<img height="20" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
 <code><img height="20" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"></code>
 <code><img height="20" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"></code>
 <code><img height="20" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white"></code>
