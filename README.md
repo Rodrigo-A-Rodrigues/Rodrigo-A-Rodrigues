@@ -11,7 +11,6 @@ Dentro de minhas espectativas de aprendizado, espero aprender UI/UX Design para 
 - ⚡ Fato interessante: I 💖 to code 24x7.
 
 <br/>
----
 
 
 ## Connect with me🤝: 
