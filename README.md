@@ -6,10 +6,10 @@ Sou formado em developer Full Stack pela empresa B7Web e obtive especialização
 Dentro de minhas expectativas de aprendizado, espero aprender UI/UX Design para me tornar um profissional mais completo possível
 
 
-•	🔭 no momento, estou trabalhando no Frontend Web Development & Backend Web Development.
-•	🌱 estou tendo especialização em Desenvolvimento Frontend e pretendo aprimorar meus conhecimentos em backend também.
-•	👯 estou procurando colaborar com desenvolvedores Front e/ou Back para obter maiores conhecimentos.
-•	⚡ Fato interessante: I 💖 too code 24x7.
+-	🔭 no momento, estou trabalhando no Frontend Web Development & Backend Web Development.
+-	🌱 estou tendo especialização em Desenvolvimento Frontend e pretendo aprimorar meus conhecimentos em backend também.
+-	👯 estou procurando colaborar com desenvolvedores Front e/ou Back para obter maiores conhecimentos.
+-	⚡ Fato interessante: I 💖 too code 24x7.
 
 
 <br/>
