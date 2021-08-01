@@ -1,14 +1,16 @@
 # Rodrigo André Rodrigues
 
-### Olá 👊
-Estou cursando Sistema de Informação pela instituição Cefet-RJ e estarei terminando em 2024.<br/>
-Sou formado em developer Full Stack pela empresa B7Web e obtive especialização em Frontend utilizando o framer ReactJS pela Rocketseat.<br/>
-Dentro de minhas espectativas de aprendizado, espero aprender UI/UX Design para me tornar um profissional mais completo possível
+### Olá, 👊
+Estou cursando Sistema de Informação pela instituição Cefet-RJ e terminarei em 2024.
+Sou formado em developer Full Stack pela empresa B7Web e obtive especialização em Frontend utilizando o frame ReactJS pela Rocketseat.
+Dentro de minhas expectativas de aprendizado, espero aprender UI/UX Design para me tornar um profissional mais completo possível
 
-- 🔭  No momento, estou trabalhando no Frontend Web Development & Backend Web Development.
-- 🌱 Estou tendo especialização em Desenvolvimento Frontend e pretendo aprimorar meus conheicmentos em backend também.
-- 👯 Estou procurando colaborar com desenvolvedores Front e/ou Back para obter maiores conhecimentos.
-- ⚡ Fato interessante: I 💖 to code 24x7.
+
+•	🔭 no momento, estou trabalhando no Frontend Web Development & Backend Web Development.
+•	🌱 estou tendo especialização em Desenvolvimento Frontend e pretendo aprimorar meus conhecimentos em backend também.
+•	👯 estou procurando colaborar com desenvolvedores Front e/ou Back para obter maiores conhecimentos.
+•	⚡ Fato interessante: I 💖 too code 24x7.
+
 
 <br/>
 
