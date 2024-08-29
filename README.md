@@ -47,14 +47,15 @@ Dentro de minhas expectativas de aprendizado, espero aprender UI/UX Design para 
 ---
 
 ### Github Activity ✔:
-
-<a href="https://github.com/Rodrigo-A-Rodrigues">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rodrigo-A-Rodrigues&theme=tokyonight" />
-</a>
-
-<a href="https://github.com/Rodrigo-A-Rodrigues">
- <img align="center" src="https://github-readme-stats.vercel.app/api?username=Rodrigo-A-Rodrigues&show_icons=true&theme=tokyonight&line_height=27" alt="Rodrigo`s github stats"/>
-</a>
+<div align="center">
+  <a href="https://github.com/Rodrigo-A-Rodrigues">
+    <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rodrigo-A-Rodrigues&theme=tokyonight" />
+  </a>
+  
+  <a href="https://github.com/Rodrigo-A-Rodrigues">
+   <img align="center" src="https://github-readme-stats.vercel.app/api?username=Rodrigo-A-Rodrigues&show_icons=true&theme=tokyonight&line_height=27" alt="Rodrigo`s github stats"/>
+  </a> 
+</div>
 
 <br/>
 <br/>
