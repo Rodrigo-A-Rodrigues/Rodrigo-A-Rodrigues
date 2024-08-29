@@ -61,10 +61,10 @@ Dentro de minhas expectativas de aprendizado, espero aprender UI/UX Design para 
 <br/>
 
 <div align="center">
+  <a href="https://app.rocketseat.com.br/me/rodrigo-andre-rodrigues-1579623552"><img src="https://app.rocketseat.com.br/api/rocketid/share?slug=rodrigo-andre-rodrigues-1579623552&type=card" width="280" alt="Rodrigo Rodrigues's Rocket ID"/></a>
+  ### Show ❤️ by 🌟 my [repositories](https://github.com/Rodrigo-A-Rodrigues?tab=repositories)!
+</div>
   
 
-### Show ❤️ by 🌟 my [repositories](https://github.com/Rodrigo-A-Rodrigues?tab=repositories)!
 
-</div>
 
-<a href="https://app.rocketseat.com.br/me/rodrigo-andre-rodrigues-1579623552"><img src="https://app.rocketseat.com.br/api/rocketid/share?slug=rodrigo-andre-rodrigues-1579623552&type=card" width="280" alt="Rodrigo Rodrigues's Rocket ID"/></a>
