@@ -48,13 +48,12 @@ Dentro de minhas expectativas de aprendizado, espero aprender UI/UX Design para 
 
 ### Github Activity ✔:
 <div align="center">
-  <a href="https://github.com/Rodrigo-A-Rodrigues">
-    <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rodrigo-A-Rodrigues&theme=tokyonight" />
+  <a href="https://next.ossinsight.io/widgets/official/compose-user-dashboard-stats?user_id=2120155" target="_blank" style="display: block" align="center">
+   <picture>
+     <source media="(prefers-color-scheme: dark)" srcset="https://next.ossinsight.io/widgets/official/compose-user-dashboard-stats/thumbnail.png?user_id=72458690&image_size=auto&color_scheme=dark" width="771" height="auto">
+     <img alt="Dashboard stats of @Rodrigo-A-Rodrigues" src="https://next.ossinsight.io/widgets/official/compose-user-dashboard-stats/thumbnail.png?user_id=72458690&image_size=auto&color_scheme=light" width="771" height="auto">
+   </picture>
   </a>
-  
-  <a href="https://github.com/Rodrigo-A-Rodrigues">
-   <img align="center" src="https://github-readme-stats.vercel.app/api?username=Rodrigo-A-Rodrigues&show_icons=true&theme=tokyonight&line_height=27" alt="Rodrigo`s github stats"/>
-  </a> 
 </div>
 
 <br/>
