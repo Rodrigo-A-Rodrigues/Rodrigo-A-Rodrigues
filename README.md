@@ -2,76 +2,24 @@
 
 ## Senior Frontend Engineer • Tech Lead • SaaS Architect
 
-Frontend Engineer specialized in building scalable SaaS platforms, modern web architectures, and high-performance applications using React, Next.js, and TypeScript.
+Frontend Engineer specialized in scalable SaaS platforms, modern frontend architecture, AI-integrated products, and high-performance applications using React, Next.js, and TypeScript.
 
-Currently working with:
+Currently focused on:
 
-* Scalable Frontend Architecture
 * SaaS Platforms
+* Frontend Architecture
 * Design Systems
-* Microservices Ecosystems
-* AI-integrated Products
-* Cloud-based Applications
-* Technical Leadership & Product Strategy
-
----
-
-## About Me
-
-I have over 6 years of experience developing B2B and B2C platforms focused on scalability, performance, accessibility, and maintainability.
-
-Throughout my career, I’ve worked on:
-
-* Educational platforms
-* CRM systems
-* AI-driven applications
-* Financial systems
-* Automation platforms
-* Real-time dashboards
-* Omnichannel communication systems
-
-I also work closely with:
-
-* Technical leadership
-* Product strategy
-* Scrum methodologies
-* Frontend architecture
-* Engineering standards
-* Team mentoring
+* AI Products
+* Technical Leadership
+* Scalable Applications
 
 ---
 
 ## Tech Stack
 
-### Frontend
-
-* React
-* Next.js
-* TypeScript
-* JavaScript
-* Tailwind CSS
-* Chakra UI
-* Material UI
-
-### Architecture & Engineering
-
-* Design Systems
-* Component Architecture
-* Microservices
-* REST APIs
-* GraphQL
-* CI/CD
-* Software Scalability
-* Performance Optimization
-
-### DevOps & Infrastructure
-
-* Docker
-* AWS
-* GitHub Actions
-* Vercel
-* Redis
-* PostgreSQL
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,nodejs,tailwind,docker,aws,postgres,redis,graphql,git,vscode" />
+</p>
 
 ---
 
@@ -85,7 +33,7 @@ AI-powered CRM and omnichannel communication platform focused on automation, Wha
 
 ### PsyHorizon
 
-Mental health and telehealth platform focused on secure online therapy, payments, scheduling, and scalable frontend architecture.
+Mental health and telehealth platform focused on secure online therapy, scheduling, payments, and scalable frontend architecture.
 
 🌐 https://psyhorizon.com
 
@@ -95,29 +43,50 @@ Educational ecosystem focused on financial olympiads, gamification, rankings, an
 
 ---
 
-## Professional Focus
+## Engineering Focus
 
 * Frontend Engineering
-* SaaS Development
 * Software Architecture
+* SaaS Development
 * Technical Leadership
 * Product Engineering
-* Performance & Accessibility
-* Modern React Ecosystem
+* Performance Optimization
+* Accessibility & Responsive Design
+* Microservices Ecosystems
+
+---
+
+## GitHub Analytics
+
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Rodrigo-A-Rodrigues&show_icons=true&theme=transparent&hide_border=true&rank_icon=github" />
+
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rodrigo-A-Rodrigues&layout=compact&theme=transparent&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Rodrigo-A-Rodrigues&theme=transparent&hide_border=true" />
+</p>
+
+---
+
+## Professional Experience
+
+* Tech Lead at Tangram Educação Financeira
+* Former CTO at FarenX
+* Senior Frontend Engineer focused on scalable B2B/B2C platforms
+* Experience leading engineering teams and product initiatives
 
 ---
 
 ## Connect With Me
 
-* GitHub: https://github.com/Rodrigo-A-Rodrigues
-* LinkedIn: https://www.linkedin.com/in/rodrigo-a-rodrigues
+<p align="left">
+  <a href="https://github.com/Rodrigo-A-Rodrigues">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
 
----
-
-## Current Goals
-
-* Building scalable SaaS ecosystems
-* Improving software architecture skills
-* Expanding backend and cloud expertise
-* Contributing to high-impact products
-* Leading modern engineering teams
+  <a href="https://www.linkedin.com/in/rodrigo-a-rodrigues">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+</p>
